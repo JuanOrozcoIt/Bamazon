@@ -1,0 +1,23 @@
+{
+  "name": "sql_store",
+  "version": "0.5.0",
+  "description": "SQL and MySQL server",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanOrozcoIt/Bamazon.git"
+  },
+  "author": "Juan Orozco",
+  "license": "JOIT",
+  "defects": {
+    "url": "https://github.com/JuanOrozcoIt/Bamazon/defects"
+  },
+  "homepage": "https://github.com/JuanOrozcoIt/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
